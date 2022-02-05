@@ -2,6 +2,6 @@
 <body>
 <h1>Hii...this is Shreya Duggal :)</h1>
 <h2>You are seeing my second git repositry</h2>
-<h2>You are seeing my second git repositry</h2>
+<h2>You are seeing my new second git repositry</h2>
 </body>
 </html>
